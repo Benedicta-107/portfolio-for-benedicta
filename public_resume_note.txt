@@ -1,0 +1,1 @@
+Place your PDF resume in the project root and rename it to resume.pdf so the Download CV button works.
