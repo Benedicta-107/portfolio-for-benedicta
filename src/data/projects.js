@@ -7,6 +7,8 @@ import flagsQuiz from "../assets/mock-flags.png";
 import simpleShell from "../assets/mock-c.png";
 import python from "../assets/mock-python.png";
 import green from "../assets/mock-green.png";
+import monty from "../assets/mock-c.png";
+
 
 export const projects = [
   {
