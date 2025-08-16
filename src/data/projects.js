@@ -1,4 +1,5 @@
 import blogImg from "../assets/blog-site-screenshot.png";
+import bookNotesApp from "../assets/mock-booknotes.png";
 
 export const projects = [
   {
@@ -7,7 +8,7 @@ export const projects = [
     stack: ["Node.js", "Express", "PostgreSQL", "EJS"],
     repo: "https://github.com/Benedicta-107/BookNotesApp",
     demo: "https://my-book-notes-backend-425fdb8642f8.herokuapp.com/",
-    image: "/src/assets/mock-booknotes.png"
+    image: bookNotesApp
   },
   {
     title: "Blog",
@@ -15,7 +16,7 @@ export const projects = [
     stack: ["EJS", "Node.js"],
     repo: "https://github.com/Benedicta-107/Blog",
     demo: "https://my-blog-website-7c9f91b94e28.herokuapp.com/new",
-    image: blogImg,
+    image: blogImg
   },
   {
     title: "QR Generator",
