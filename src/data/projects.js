@@ -1,5 +1,12 @@
 import blogImg from "../assets/blog-site-screenshot.png";
 import bookNotesApp from "../assets/mock-booknotes.png";
+import qrGenerator from "../assets/mock-qr.png";
+import jokeGenerator from "../assets/mock-joke.png";
+import countriesCapitalQuiz from "../assets/mock-quiz.png";
+import flagsQuiz from "../assets/mock-flags.png";
+import simpleShell from "../assets/mock-c.png";
+import python from "../assets/mock-python.png";
+import green from "../assets/mock-green.png";
 
 export const projects = [
   {
@@ -24,7 +31,7 @@ export const projects = [
     stack: ["JavaScript", "HTML", "CSS"],
     repo: "https://github.com/Benedicta-107/QR-Generator",
     demo: "https://qr-code-beny-80f60b877a10.herokuapp.com/",
-    image: "/src/assets/mock-qr.png"
+    image: qrGenerator
   },
   {
     title: "Joke Generator",
@@ -32,7 +39,7 @@ export const projects = [
     stack: ["EJS", "Fetch API"],
     repo: "https://github.com/Benedicta-107/JokeGenerator",
     demo: "https://joke-application-b88d3cebbe51.herokuapp.com",
-    image: "/src/assets/mock-joke.png"
+    image: jokeGenerator
   },
   {
     title: "Countries Capital Quiz",
@@ -40,7 +47,7 @@ export const projects = [
     stack: ["JavaScript", "HTML", "CSS"],
     repo: "https://github.com/Benedicta-107/countriesCapital-quiz",
     demo: "https://world-capital-quiz-4d6415a7553e.herokuapp.com",
-    image: "/src/assets/mock-quiz.png"
+    image: countriesCapitalQuiz
   },
   {
     title: "Flags Quiz",
@@ -48,7 +55,7 @@ export const projects = [
     stack: ["JavaScript"],
     repo: "https://github.com/Benedicta-107/flags-quiz",
     demo: "https://flag-quiz-c6cfd8694c1b.herokuapp.com/",
-    image: "/src/assets/mock-flags.png"
+    image: flagsQuiz
   },
   {
     title: "Simple Shell",
@@ -56,7 +63,7 @@ export const projects = [
     stack: ["C"],
     repo: "https://github.com/Benedicta-107/simple_shell",
     demo: "",
-    image: "/src/assets/mock-c.png"
+    image: simpleShell
   },
   {
     title: "Monty",
@@ -64,7 +71,7 @@ export const projects = [
     stack: ["C"],
     repo: "https://github.com/Benedicta-107/monty",
     demo: "",
-    image: "/src/assets/mock-c.png"
+    image: monty
   },
   {
     title: "RSA Factoring Challenge",
@@ -72,7 +79,7 @@ export const projects = [
     stack: ["Python"],
     repo: "https://github.com/Benedicta-107/RSA-Factoring-Challenge",
     demo: "",
-    image: "/src/assets/mock-python.png"
+    image: python
   },
   {
     title: "GreenPoult Project",
@@ -80,6 +87,6 @@ export const projects = [
     stack: ["HTML", "CSS"],
     repo: "https://github.com/Benedicta-107/GreenPoult-project",
     demo: "",
-    image: "/src/assets/mock-green.png"
+    image: green
   },
 ]
