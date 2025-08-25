@@ -1,3 +1,4 @@
+import rolexProject from "../assets/rolexProject.png";
 import blogImg from "../assets/blog-site-screenshot.png";
 import bookNotesApp from "../assets/mock-booknotes.png";
 import qrGenerator from "../assets/mock-qr.png";
@@ -17,7 +18,7 @@ export const projects = [
     stack: ["Next.js", "Tailwind CSS", "PostgreSQL", "EJS"],
     repo: "https://github.com/Benedicta-107/rolex-project",
     demo: "https://rolex-project-f7f50a9ab242.herokuapp.com",
-    image: bookNotesApp
+    image: rolexProject
   },
   {
     title: "BookNotesApp",
