@@ -10,7 +10,7 @@ export default function Hero() {
             Benedicta Ibeawuchi
           </h1>
           <p className="mt-3 text-brand font-semibold">
-            Junior Full‑Stack Developer
+            Full‑Stack Developer
           </p>
           <p className="mt-6 text-slate-300 max-w-xl">
             Motivated and adaptable Full‑Stack Developer with a track record of
