@@ -12,6 +12,14 @@ import monty from "../assets/mock-c.png";
 
 export const projects = [
   {
+    title: "Rolex project",
+    description: "Developed a polished UI with a dynamic product catalogue and responsive design.",
+    stack: ["Next.js", "Tailwind CSS", "PostgreSQL", "EJS"],
+    repo: "https://github.com/Benedicta-107/rolex-project",
+    demo: "https://rolex-project-f7f50a9ab242.herokuapp.com",
+    image: bookNotesApp
+  },
+  {
     title: "BookNotesApp",
     description: "A web app to store and organize book notes, inspired by Derek Sivers.",
     stack: ["Node.js", "Express", "PostgreSQL", "EJS"],
